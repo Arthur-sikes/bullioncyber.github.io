@@ -7,5 +7,23 @@ header img { width : 150px;
              height: 150px;
              border-radius: 50%;
              margin: 10px;
+           }
+#about{
+    padding : 20px;
+    line-height: 1.6;
+    font-size: 18px;
 }
+#about h2 { color: #222;
+            margin-bottom: 10px;
+}
+#skills { background-color: #eee;
+          padding: 20px;
+}
+#skills li {
+          padding: 5px;
+          margin: 5px;
+          display: inline-block;
+}
+#skills ul { list-style-type: none;
+             padding: 0;}
              
